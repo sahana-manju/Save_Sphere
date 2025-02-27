@@ -1,6 +1,6 @@
 # SaveSphere: Fire and Gun Detection System
 
-SaveSphere is an innovative app that detects fires or gunshots in video footage and automatically sends an email to the concerned police authority to take immediate action. This system can be implemented in CCTV setups for isolated areas to help detect dangerous events.
+SaveSphere is an innovative app that detects fires or gunshots in video footage and automatically sends an email to the concerned police authority to take immediate action. This system can be implemented in CCTV setups for isolated areas to help detect dangerous events.This app leverages **YOLOv3** (You Only Look Once) for accurate and real-time object detection to identify potential fire or gunshot events in video streams.
 
 # Dataset
 We used a Dataset available in kaggle to train the Object Detection Model Training.
